@@ -1,2 +1,2 @@
-# HoT
-Repo for the B2H Hands-on Track
+# HoML_training
+Repo for the HOML Track
